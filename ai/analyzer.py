@@ -3,8 +3,7 @@ from dotenv import load_dotenv
 import os
 import json
 
-from utils.text_loader import load_lease
-
+from utils.pdf_loader import extract_pdf_text
 
 load_dotenv()
 
@@ -77,7 +76,9 @@ Rental Agreement:
 
 if __name__ == "__main__":
 
-    lease = load_lease()
+    lease = extract_pdf_text(
+    "ai/sample_data/lease.pdf"
+)
 
     result = analyze_lease(lease)
 
