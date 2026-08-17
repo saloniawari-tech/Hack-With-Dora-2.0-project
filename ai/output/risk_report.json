@@ -1,0 +1,70 @@
+{
+    "overall_score": 23,
+    "overall_risk": "HIGH",
+    "summary": "The rental agreement presents several clauses that introduce significant financial risks and potential inconveniences for the tenant. Notable areas of concern include a high fixed penalty for late rent, the landlord's ability to increase rent at any time without clear limits, and the tenant's full responsibility for all appliance maintenance and repairs, even for wear and tear. The security deposit clause regarding repainting also lacks clarity. While a 12-month lock-in period and tenant responsibility for utilities are common, the 90-day notice period is longer than usual. It is strongly advised to negotiate specific clauses to mitigate these risks before signing.",
+    "issues": [
+        {
+            "clause_number": "Clause 2",
+            "category": "Notice period",
+            "risk_level": "MEDIUM",
+            "title": "Extended Notice Period for Vacating",
+            "clause_text": "The tenant must provide a 90 day notice before leaving the property.",
+            "explanation": "A 90-day notice period is considerably longer than the standard 30 or 60 days commonly found in rental agreements. This extended period can significantly limit the tenant's flexibility if they need to relocate unexpectedly or find a new property sooner.",
+            "recommendation": "Negotiate to reduce the notice period to 30 or 60 days to allow for more flexibility in case of unforeseen circumstances or changes in living arrangements."
+        },
+        {
+            "clause_number": "Clause 3",
+            "category": "Security deposit",
+            "risk_level": "MEDIUM",
+            "title": "Fixed Deduction for Repainting",
+            "clause_text": "The landlord may deduct 20% of the security deposit for repainting charges.",
+            "explanation": "Deducting a fixed percentage (20%) of the security deposit for repainting, regardless of the actual condition of the paint or normal wear and tear, could be unfair. Landlords are typically responsible for costs associated with normal wear and tear, which includes routine repainting.",
+            "recommendation": "Request clarification that repainting charges will only be deducted if there is damage beyond normal wear and tear. If a deduction is necessary, ensure it's based on the actual cost of repairs attributable to tenant damage, not a fixed percentage. It's advisable to document the paint condition with photos/videos at move-in and move-out."
+        },
+        {
+            "clause_number": "Clause 4",
+            "category": "Maintenance responsibilities",
+            "risk_level": "HIGH",
+            "title": "Tenant Responsible for All Appliance Repairs",
+            "clause_text": "The tenant must maintain all appliances and repair costs will be paid by the tenant.",
+            "explanation": "This clause places the entire burden of maintenance and repair costs for all appliances on the tenant. If major appliances provided by the landlord (e.g., refrigerator, washing machine, air conditioner) break down due to normal wear and tear, the tenant could face substantial repair expenses.",
+            "recommendation": "Negotiate that the landlord should be responsible for major structural repairs and repairs of major appliances provided by them due to normal wear and tear. The tenant should only be responsible for minor maintenance, user-induced damage, or repairs of their own appliances."
+        },
+        {
+            "clause_number": "Clause 5",
+            "category": "Lock-in period",
+            "risk_level": "LOW",
+            "title": "Standard 12-Month Lock-in Period",
+            "clause_text": "The tenant agrees to a lock-in period of 12 months.",
+            "explanation": "A 12-month lock-in period is a standard duration in many rental agreements, meaning the tenant cannot terminate the agreement before this period without potentially incurring penalties.",
+            "recommendation": "While standard, understand the implications. If there's any possibility of needing to move sooner, try to negotiate a reasonable early termination clause with a defined penalty, or a shorter lock-in period."
+        },
+        {
+            "clause_number": "Clause 6",
+            "category": "Rent increase",
+            "risk_level": "HIGH",
+            "title": "Landlord Can Increase Rent Anytime",
+            "clause_text": "The landlord can increase rent at any time during the agreement.",
+            "explanation": "This clause grants the landlord an unlimited right to increase the rent at any point during the agreement term, which introduces significant financial instability and unpredictability for the tenant. There are no specified limits on the amount or frequency of increases.",
+            "recommendation": "Negotiate to include a clause stating that rent cannot be increased during the initial term of the agreement (e.g., 12 months). If increases are allowed upon renewal, specify a maximum percentage increase (e.g., 5-10%) and require a minimum notice period (e.g., 60 days) before any increase takes effect."
+        },
+        {
+            "clause_number": "Clause 7",
+            "category": "Penalties",
+            "risk_level": "HIGH",
+            "title": "Excessive Late Payment Penalty",
+            "clause_text": "Late payment will result in a penalty of INR 5000.",
+            "explanation": "A fixed penalty of INR 5000 for late payment is excessively high, particularly for a single instance of delay. Such a steep penalty can be financially burdensome even for minor, unintentional delays in rent payment.",
+            "recommendation": "Negotiate for a more reasonable penalty structure, such as a smaller fixed amount, a percentage of the overdue rent, or a daily charge. It is also advisable to request a grace period (e.g., 3-5 days) before any penalty applies."
+        },
+        {
+            "clause_number": "Clause 8",
+            "category": "Utility responsibilities",
+            "risk_level": "LOW",
+            "title": "Tenant Responsible for Electricity and Water Charges",
+            "clause_text": "Electricity and water charges must be paid separately by the tenant.",
+            "explanation": "This clause clarifies that the tenant is responsible for paying electricity and water charges in addition to the rent. This is a common and standard practice in most rental agreements.",
+            "recommendation": "Ensure that separate meters are installed and functional for electricity and water to allow for accurate billing based on actual consumption."
+        }
+    ]
+}
